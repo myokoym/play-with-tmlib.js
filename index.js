@@ -1,4 +1,4 @@
-var CIRCLE_RADIUS = 30;
+var CIRCLE_RADIUS = 25;
 
 var Ball = tm.createClass({
     superClass: tm.app.CanvasElement,
