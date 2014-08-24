@@ -4,7 +4,7 @@ play with http://phi-jp.github.io/tmlib.js/[tmlib.js]
 
 == Usage
 
-=== LInux
+=== Linux
 
 [source,bash]
 $ firefox index.html
