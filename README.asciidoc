@@ -1,0 +1,36 @@
+= README
+
+play with http://phi-jp.github.io/tmlib.js/[tmlib.js]
+
+== Usage
+
+=== LInux
+
+[source,bash]
+$ firefox index.html
+
+=== Windows
+
+[source,bash]
+$ start index.html
+
+=== OS X
+
+[source,bash]
+$ open index.html
+
+== Authors
+
+* Masafumi Yokoyama <myokoym@gmail.com>
+
+== License
+
+MIT License. See LICENSE.txt for details.
+
+== Contributing
+
+. Fork it
+. Create your feature branch (git checkout -b my-new-feature)
+. Commit your changes (git commit -am 'Add some feature')
+. Push to the branch (git push origin my-new-feature)
+. Create new Pull Request
